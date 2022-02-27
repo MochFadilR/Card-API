@@ -1,0 +1,18 @@
+body {
+    background: hsl(217, 19%, 24%)
+}
+
+.card {
+    background: hsl(217, 19%, 38%);
+    height: 40vh;
+    width: 40vw;
+    
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+    border-radius: 10px;
+}
